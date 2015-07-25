@@ -7,6 +7,8 @@ Remove and include elements with media queries!
 ##Install
 `bower install --save ngmedia`
 
+##Usage
+
 ```javascript
 angular.module('myApp', ['angularMedia'])
 
