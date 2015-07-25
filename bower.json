@@ -1,0 +1,25 @@
+{
+  "name": "ngmedia",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ah450/ngmedia",
+  "authors": [
+    "Ahmed H. Ismail <ahm3d.hisham@gmail.com>"
+  ],
+  "description": "Angular directive for removing elements based on media query match",
+  "main": "ngMedia.js",
+  "keywords": [
+    "angular",
+    "media",
+    "responsive",
+    "dom",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
